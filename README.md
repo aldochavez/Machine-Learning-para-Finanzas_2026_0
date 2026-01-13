@@ -22,5 +22,5 @@ Bienvenidos 👋. Cada grupo tiene una carpeta asignada dentro de este repositor
 	git clone https://github.com/aldochavez/Curso_Verano_2026_0.git
 
 5. Agrega tus cambios con git add y git commit al grupo al que perteneces:
-	git add grupoX/*
-	git commit -m "Entrega inicial grupoX"
+	- git add grupoX/*
+	- git commit -m "Entrega inicial grupoX"
