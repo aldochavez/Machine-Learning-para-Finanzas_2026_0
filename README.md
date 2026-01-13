@@ -1,4 +1,4 @@
-# Curso de Verano 2026 - Entregas en GitHub
+# Machine-Learning-para-Finanzas_2026_0 - Entregas en GitHub
 
 Bienvenidos 👋. Cada grupo tiene una carpeta asignada dentro de este repositorio.
 
