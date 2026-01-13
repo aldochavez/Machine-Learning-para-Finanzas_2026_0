@@ -4,7 +4,7 @@ Bienvenidos 👋. Cada grupo tiene una carpeta asignada dentro de este repositor
 
 ## Reglas de entrega
 - Trabaja únicamente en la carpeta de tu grupo (`grupoX`).
-- Sube tu trabajo usando **commits** y **pull requests**.
+- Sube tu trabajo usando **commits**.
 - No modifiques carpetas de otros grupos.
 
 ## Ejemplo de flujo de trabajo
@@ -19,7 +19,7 @@ Bienvenidos 👋. Cada grupo tiene una carpeta asignada dentro de este repositor
 	- git config --global user.email "tu_correo@example.com"
 
 4. Clona el repositorio:
-	git clone https://github.com/aldochavez/Curso_Verano_2026_0.git
+	git clone https://github.com/aldochavez/Machine-Learning-para-Finanzas_2026_0.git
 
 5. Agrega tus cambios con git add y git commit al grupo al que perteneces:
 	- git add grupoX/*
