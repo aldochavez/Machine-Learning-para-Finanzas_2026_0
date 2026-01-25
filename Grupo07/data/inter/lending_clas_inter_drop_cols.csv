@@ -5088,7 +5088,6 @@ loan_amnt,term,int_rate,installment,grade,emp_length,home_ownership,annual_inc,v
 7.937731775260109, 60 months,13.49,64.42,C,4 years,RENT,10.799514350728673,Source Verified,Charged Off,other,FL,16.63
 8.987321812850125, 36 months,5.99,243.34,A,10+ years,MORTGAGE,10.924696702357316,Verified,Fully Paid,home_improvement,CA,27.88
 8.853808274977197, 36 months,12.99,235.83,C,9 years,MORTGAGE,10.868587496017359,Not Verified,Fully Paid,wedding,TX,20.27
-9.76428295481558, 60 months,18.39,445.55,E,nan,nan,11.002116507732017,nan,,nan,nan,13.08
 9.392745258631441, 36 months,10.99,392.81,B,9 years,MORTGAGE,11.561725152903833,Not Verified,Fully Paid,debt_consolidation,CA,9.86
 7.824445930877619, 36 months,6.99,77.19,A,4 years,RENT,10.596659732783579,Not Verified,Fully Paid,small_business,IL,18.78
 7.783640596221253, 36 months,11.99,79.71,B,< 1 year,RENT,10.373522431293592,Not Verified,Fully Paid,debt_consolidation,NJ,12.34
@@ -13884,7 +13883,6 @@ loan_amnt,term,int_rate,installment,grade,emp_length,home_ownership,annual_inc,v
 8.517393171418904, 36 months,11.12,163.98,B,2 years,MORTGAGE,10.778977123006351,Not Verified,Fully Paid,other,FL,6.65
 9.392745258631441, 36 months,14.84,415.05,D,5 years,MORTGAGE,11.184435286790631,Verified,Fully Paid,debt_consolidation,NJ,11.88
 9.680406499268875, 36 months,16.32,565.05,D,8 years,MORTGAGE,11.156264806643742,Not Verified,Fully Paid,debt_consolidation,NJ,11.95
-8.699681400989514, 36 months,10.75,195.73,B,nan,nan,11.002116507732017,nan,,nan,nan,13.08
 9.575052927597383, 36 months,7.51,448.0,A,3 years,RENT,10.839600519357369,Not Verified,Fully Paid,other,NY,21.11
 7.937731775260109, 36 months,17.56,100.61,E,3 years,RENT,10.73815599652319,Not Verified,Fully Paid,other,FL,10.26
 8.740496729931813, 36 months,10.38,202.79,B,2 years,OWN,9.903737521291335,Verified,Fully Paid,debt_consolidation,CA,19.68
@@ -19835,7 +19833,6 @@ loan_amnt,term,int_rate,installment,grade,emp_length,home_ownership,annual_inc,v
 9.798182590890704, 36 months,9.33,575.17,B,< 1 year,RENT,11.002116507732017,Not Verified,Fully Paid,educational,NY,9.96
 10.12667110305036, 36 months,10.91,817.41,C,10+ years,MORTGAGE,11.19822841866684,Not Verified,Charged Off,debt_consolidation,FL,22.13
 10.111558074352816, 36 months,14.07,842.47,E,8 years,MORTGAGE,11.695255355062795,Not Verified,Fully Paid,credit_card,NY,12.81
-8.160803920954665, 36 months,10.28,113.4,C,nan,nan,11.002116507732017,nan,,nan,nan,13.08
 10.12667110305036, 36 months,12.49,836.23,D,10+ years,MORTGAGE,11.27546744880796,Not Verified,Fully Paid,small_business,NY,7.99
 8.853808274977197, 36 months,11.86,232.04,D,4 years,RENT,10.827766295132466,Not Verified,Fully Paid,debt_consolidation,NJ,17.02
 9.392745258631441, 36 months,12.17,399.55,D,1 year,RENT,10.085850775128717,Not Verified,Fully Paid,debt_consolidation,FL,14.5
